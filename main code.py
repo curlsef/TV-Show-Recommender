@@ -33,20 +33,3 @@ elif genre == 'horror':
 
 else:
     print('This is not a valid genre!')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#rand_choice = random.choice(action)
